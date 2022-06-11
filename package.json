@@ -12,6 +12,7 @@
     "web-build": "react-app-rewired build && mkdir -p backend/web_build && cp -R build/* backend/web_build"
   },
   "dependencies": {
+    "google-calendar": "*",
     "react": "17.0.1",
     "react-native": "0.64.0",
     "axios": "^0.21.1",
