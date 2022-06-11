@@ -982,7 +982,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/app-menu@file:./modules/app-menu/":
+  version "1.0.0"
+
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/push-notifications@file:./modules/push-notifications":
